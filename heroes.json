@@ -1,0 +1,2882 @@
+{
+    "heroes": {
+        "Abaddon": {
+            "counters": {
+                "good_against": [
+                    "Death Prophet", "Mirana", "Bane", "Batrider", "Beastmaster", "Chen", "Techies", "Bloodseeker", "Necrophos", "Legion_Commander", "Nyx_Assassin"
+                ],
+                "works_well_with": [
+                    "Storm_Spirit", "Phantom_Assassin", "Io", "Axe", "Legion_Commander", "Centaur_Warrunner", "Oracle"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+
+        },
+        "Alchemist": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Nature's_Prophet", "Phoenix", "Undying", "Huskar"
+                ],
+                "works_well_with": [
+                    "Oracle"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 33,
+            "laning": 20,
+            "earlygame": 20,
+            "midgame": 100,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Ancient_Apparition": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Alchemist", "Chen", "Crystal_Maiden", "Dazzle", "Death Prophet", "Huskar", "Io", "Morphling", "Snapfire", "Winter_Wyvern"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Faceless_Void", "Meepo", "Necrophos", "Oracle", "Shadow_Demon", "Slark", "Venomancer", "Winter_Wyvern"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Anti_Mage": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Abaddon", "Arc_Warden", "Bristleback", "Clockwerk", "Elder Titan", "Medusa", "Ogre_Magi", "Phoenix", "Pugna", "Rubick", "Spectre", "Storm_Spirit", "Tidehunter", "Undying", "Venomancer", "Wraith_King", "Zeus"
+                ],
+                "works_well_with": [
+                    "Bane", "Bounty_Hunter", "Dazzle", "Dark_Seer", "Lion", "Magnus", "Oracle", "Shadow_Demon", "Slardar", "Treant_Protector"
+                ]
+            },
+            "control": 0,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 20,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Arc_Warden": {
+            "counters": {
+                "good_against": [
+                    "Legion_Commander", "Templar_Assassin", "Mirana", "Terrorblade", "Phoenix", "Sniper", "Drow_Ranger", "Enchantress"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition"
+                ]
+            },
+            "control": 60,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 100,
+            "lategame": 100,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Axe": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Anti_Mage", "Broodmother", "Dazzle", "Huskar", "Morphling", "Nature's_Prophet", "Phantom_Assassin", "Phantom_Lancer", "Slark", "Terrorblade", "Troll_Warlord", "Weaver"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Dark_Seer", "Dazzle", "Enigma", "Disruptor", "Magnus", "Phoenix", "Sand_King", "Skywrath_Mage", "Tiny", "Venomancer", "Witch_Doctor"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 100,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Bane": {
+            "counters": {
+                "good_against": [
+                    "Faceless_Void", "Legion_Commander", "Medusa", "Phantom_Assassin", "Shadow_Fiend"
+                ],
+                "works_well_with": [
+                    "Grimstroke", "Kunkka", "Mirana", "Omniknight", "Pudge", "Skywrath_Mage"
+                ]
+            },
+            "control": 100,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Batrider": {
+            "counters": {
+                "good_against": [
+                    "Chen", "Io", "Meepo", "Monkey_King", "Naga_Siren", "Techies", "Templar_Assassin", "Treant_Protector"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Ursa", "Pugna", "Skywrath_Mage", "Pudge"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 100,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Beastmaster": {
+            "counters": {
+                "good_against": [
+                    "Monkey_King", "Phoenix", "Sven", "Templar_Assassin", "Tinker", "Tiny", "Troll_Warlord", "Ursa", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Lifestealer", "Nature's_Prophet", "Phantom_Assassin", "Spirit_Breaker", "Sven", "Tinker", "Tiny", "Underlord", "Ursa"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },   
+        "Bloodseeker": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Clinkz", "Huskar", "Lycan", "Meepo", "Mirana", "Pangolier", "Phoenix", "Queen_of_Pain", "Riki", "Slark", "Sniper", "Timbersaw", "Vengeful_Spirit", "Weaver", "Windranger"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Batrider", "Bounty_Hunter", "Earthshaker", "Earth Spirit", "Invoker", "Jakiro", "Luna", "Magnus", "Nature's_Prophet", "Phoenix", "Queen_of_Pain", "Venomancer", "Warlock", "Zeus"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 40,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Bounty_Hunter": {
+            "counters": {
+                "good_against": [
+                    "Sniper", "Nyx_Assassin", "Shadow_Fiend", "Pudge"
+                ],
+                "works_well_with": [
+                    "Invoker", "Nature's_Prophet", "Tinker", "Spectre", "Zeus"
+                ]
+            },
+            "control": 0,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 20,
+            "earlygame": 40,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 0,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Brewmaster": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Chaos_Knight", "Huskar", "Lone_Druid", "Lycan", "Templar_Assassin", "Ursa"
+                ],
+                "works_well_with": [
+                    "Dazzle", "Oracle", "Tiny", "Invoker"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 100,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Bristleback": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Chaos_Knight", "Huskar", "Jakiro", "Luna", "Lycan", "Meepo", "Phantom_Lancer", "Pudge", "Riki", "Rubick", "Sand_King"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Dazzle", "Drow_Ranger", "Keeper_of_the_Light", "Skywrath_Mage", "Venomancer"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 33,
+            "laning": 60,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Broodmother": {
+            "counters": {
+                "good_against": [
+                    "Bane", "Chen", "Drow_Ranger", "Enchantress", "Medusa", "Nature's_Prophet", "Phantom_Assassin", "Sniper", "Treant_Protector"
+                ],
+                "works_well_with": [
+                    "Beastmaster", "Dazzle", "Lifestealer"
+                ]
+            },
+            "control": 0,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Centaur_Warrunner": {
+            "counters": {
+                "good_against": [
+                    "Arc_Warden", "Doom", "Nyx_Assassin", "Pangolier", "Phantom_Assassin", "Phantom_Lancer", "Sniper", "Windranger"
+                ],
+                "works_well_with": [
+                    "Abaddon", "Dark_Seer", "Mirana", "Sven", "Tusk", "Tiny", "Vengeful_Spirit", "Grimstroke"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 100,
+            "initiation": 100,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Chaos_Knight": {
+            "counters": {
+                "good_against": [
+                    "Bane", "Bounty_Hunter", "Disruptor", "Huskar", "Lifestealer", "Lone_Druid", "Pudge", "Slark", "Sniper", "Ursa", "Viper"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Keeper_of_the_Light", "Phantom_Lancer", "Shadow_Demon"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 33,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Chen": {
+            "counters": {
+                "good_against": [
+                    "Techies", "Arc_Warden", "Beastmaster", "Clockwerk", "Pudge", "Bane", "Shadow_Shaman"
+                ],
+                "works_well_with": [
+                    "Vengeful_Spirit", "Lycan"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 20,
+            "lategame": 20,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Clinkz": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Ember Spirit", "Huskar", "Nature's_Prophet", "Viper"
+                ],
+                "works_well_with": [
+                    "Drow_Ranger", "Omniknight", "Vengeful_Spirit"
+                ]
+            },
+            "control": 0,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Clockwerk": {
+            "counters": {
+                "good_against": [
+                    "Earthshaker", "Enigma", "Drow_Ranger", "Legion_Commander", "Monkey_King", "Pudge", "Pugna", "Sniper", "Spirit_Breaker", "Tinker", "Windranger"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Invoker", "Lifestealer", "Mirana", "Shadow_Demon"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 100,
+            "laning": 40,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Crystal_Maiden": {
+            "counters": {
+                "good_against": [
+                    "Slark", "Phantom_Assassin", "Templar_Assassin", "Terrorblade"
+                ],
+                "works_well_with": [
+                    "Juggernaut", "Timbersaw", "Sven"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 40,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Dark_Seer": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Templar_Assassin", "Treant_Protector", "Meepo", "Terrorblade", "Venomancer"
+                ],
+                "works_well_with": [
+                    "Bounty_Hunter", "Elder Titan", "Enigma", "Riki", "Sven", "Venomancer"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 40,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Dark_Willow": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Faceless_Void", "Monkey_King", "Meepo", "Spirit_Breaker", "Timbersaw", "Troll_Warlord", "Windranger"
+                ],
+                "works_well_with": [
+                    "Mars", "Rubick", "Ember Spirit", "Invoker", "Juggernaut", "Lina", "Mirana", "Phoenix", "Puck", "Warlock", "Weaver", "Axe"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Dawnbreaker": {
+            "counters": {
+                "good_against": [
+                    "Nature's_Prophet", "Legion_Commander", "Mars", "Spirit_Breaker", "Spectre"
+                ],
+                "works_well_with": [
+                    "Enigma", "Necrophos", "Legion_Commander"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Dazzle": {
+            "counters": {
+                "good_against": [
+                    "Clockwerk", "Necrophos", "Terrorblade", "Venomancer"
+                ],
+                "works_well_with": [
+                    "Brewmaster", "Broodmother", "Huskar", "Meepo", "Naga_Siren", "Phantom_Lancer"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Death_Prophet": {
+            "counters": {
+                "good_against": [
+                    "Invoker", "Morphling", "Timbersaw", "Nature's_Prophet"
+                ],
+                "works_well_with": [
+                    "Enigma", "Faceless_Void", "Keeper_of_the_Light"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Disruptor": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Io", "Queen_of_Pain", "Slark", "Storm_Spirit", "Tidehunter"
+                ],
+                "works_well_with": [
+                    "Zeus", "Anti_Mage", "Keeper_of_the_Light", "Warlock", "Clinkz"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Doom": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Timbersaw", "Anti_Mage", "Bristleback", "Tidehunter", "Ember Spirit", "Invoker", "Omniknight", "Tinker", "Elder Titan", "Faceless_Void", "Pudge", "Spectre", "Arc_Warden"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Crystal_Maiden", "Grimstroke", "Sven", "Bane"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Dragon_Knight": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Clinkz", "Nyx_Assassin", "Riki", "Spirit_Breaker", "Templar_Assassin", "Phantom_Lancer", "Witch_Doctor"
+                ],
+                "works_well_with": [
+                    "Chen", "Crystal_Maiden", "Enigma", "Magnus", "Medusa", "Treant_Protector", "Vengeful_Spirit"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 33,
+            "laning": 40,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Drow_Ranger": {
+            "counters": {
+                "good_against": [
+                    "Juggernaut", "Anti_Mage", "Weaver", "Mirana", "Rubick"
+                ],
+                "works_well_with": [
+                    "Medusa", "Vengeful_Spirit"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 40,
+            "midgame": 100,
+            "lategame": 100,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Earth_Spirit": {
+            "counters": {
+                "good_against": [
+                    "Pudge", "Tinker", "Invoker", "Templar_Assassin", "Enigma"
+                ],
+                "works_well_with": [
+                    "Alchemist", "Bloodseeker", "Dark_Seer", "Faceless_Void", "Lifestealer", "Techies"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 33,
+            "initiation": 33,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 20,
+            "lategame": 20,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Earthshaker": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Chaos_Knight", "Enigma", "Legion_Commander", "Meepo", "Naga_Siren", "Nature's_Prophet", "Phantom_Lancer", "Spirit_Breaker"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Enigma", "Magnus", "Naga_Siren", "Puck", "Sand_King"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 100,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+            
+        },
+        "Elder_Titan": {
+            "counters": {
+                "good_against": [
+                    "Meepo", "Morphling", "Phantom_Lancer", "Slark", "Terrorblade", "Viper"
+                ],
+                "works_well_with": [
+                    "Disruptor", "Faceless_Void", "Kunkka", "Slardar", "Luna"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 40,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Ember_Spirit": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Meepo", "Chaos_Knight", "Terrorblade", "Crystal_Maiden", "Nature's_Prophet", "Phantom_Lancer", "Templar_Assassin", "Zeus", "Pugna"
+                ],
+                "works_well_with": [
+                    "Magnus", "Keeper_of_the_Light", "Dazzle", "Faceless_Void"
+                ]
+            },
+            "control": 33,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 60,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Enchantress": {
+            "counters": {
+                "good_against": [
+                    "Chaos_Knight", "Ember Spirit", "Lycan", "Omniknight", "Spirit_Breaker", "Lifestealer", "Sven", "Beastmaster", "Ursa"
+                ],
+                "works_well_with": [
+                    "Legion_Commander", "Lich", "Io", "Warlock"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 20,
+            "lategame": 40,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Enigma": {
+            "counters": {
+                "good_against": [
+                    "Crystal_Maiden", "Juggernaut", "Lifestealer", "Monkey_King", "Omniknight"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Axe", "Crystal_Maiden", "Dark_Seer", "Dazzle", "Dawnbreaker", "Earthshaker", "Lich", "Lina", "Luna", "Magnus", "Naga_Siren", "Outworld Destroyer", "Phoenix", "Sand_King", "Shadow_Shaman", "Treant_Protector", "Warlock", "Witch_Doctor", "Invoker"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Faceless_Void": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Lifestealer", "Bloodseeker", "Bristleback", "Invoker", "Juggernaut", "Mars", "Morphling", "Necrophos", "Puck", "Queen_of_Pain", "Razor", "Rubick", "Slark", "Storm_Spirit", "Weaver"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Disruptor", "Enigma", "Invoker", "Jakiro", "Kunkka", "Lich", "Outworld Destroyer", "Phoenix", "Sniper", "Witch_Doctor"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 33,
+            "initiation": 100,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 100,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Grimstroke": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Crystal_Maiden", "Io", "Necrophos", "Phantom_Lancer", "Terrorblade", "Timbersaw", "Weaver"
+                ],
+                "works_well_with": [
+                    "Doom", "Bane", "Bloodseeker", "Bounty_Hunter", "Crystal_Maiden", "Lich", "Lion", "Lina", "Necrophos", "Phoenix", "Pugna", "Slark", "Witch_Doctor"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Gyrocopter": {
+            "counters": {
+                "good_against": [
+                    "Meepo", "Undying", "Phantom_Lancer", "Chaos_Knight", "Terrorblade"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Disruptor", "Earthshaker", "Enigma", "Magnus", "Morphling", "Rubick", "Warlock"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Hoodwink": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Bristleback", "Huskar", "Lion", "Monkey_King", "Phantom_Assassin", "Phantom_Lancer", "Morphling", "Templar_Assassin"
+                ],
+                "works_well_with": [
+                    "Elder Titan", "Monkey_King", "Nature's_Prophet", "Windranger", "Invoker", "Disruptor", "Pugna", "Sand_King"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Huskar": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Weaver", "Clockwerk", "Dragon_Knight", "Earthshaker", "Ember Spirit", "Nature's_Prophet", "Phoenix"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Beastmaster", "Dazzle", "Dawnbreaker", "Necrophos", "Omniknight", "Oracle", "Pugna", "Terrorblade", "Tiny", "Witch_Doctor"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 20,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Invoker": {
+            "counters": {
+                "good_against": [
+                    "Huskar", "Legion_Commander", "Medusa", "Necrophos", "Tinker", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Dark_Seer", "Disruptor", "Luna", "Magnus", "Nature's_Prophet", "Faceless_Void", "Legion_Commander"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 20,
+            "earlygame": 60,
+            "midgame": 100,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Io": {
+            "counters": {
+                "good_against": [
+                    "Drow_Ranger", "Meepo", "Nature's_Prophet", "Phoenix", "Pudge", "Underlord"
+                ],
+                "works_well_with": [
+                    "Chaos_Knight", "Gyrocopter", "Juggernaut", "Legion_Commander", "Lifestealer", "Phantom_Assassin", "Spirit_Breaker", "Sven", "Tiny", "Ursa"
+                ]
+            },
+            "control": 0,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Jakiro": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Broodmother", "Chen", "Chaos_Knight", "Crystal_Maiden", "Dark_Willow", "Enigma", "Meepo", "Naga_Siren", "Nature's_Prophet", "Phantom_Lancer", "Puck", "Riki", "Templar_Assassin", "Treant_Protector" 
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Faceless_Void", "Kunkka", "Magnus", "Shadow_Demon", "Treant_Protector"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Juggernaut": {
+            "counters": {
+                "good_against": [
+                    "Dark_Willow", "Enchantress", "Invoker", "Keeper_of_the_Light", "Necrophos", "Nyx_Assassin", "Phoenix", "Templar_Assassin", "Zeus"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Lich", "Dazzle", "Axe", "Magnus", "Shadow_Shaman", "Venomancer", "Zeus"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 100,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Keeper_of_the_Light": {
+            "counters": {
+                "good_against": [
+                    "Monkey_King", "Broodmother"
+                ],
+                "works_well_with": [
+                    "Mars", "Medusa", "Lina", "Luna", "Pudge", "Invoker", "Terrorblade", "Juggernaut", "Zeus", "Pugna"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Kunkka": {
+            "counters": {
+                "good_against": [
+                    "Chaos_Knight", "Broodmother", "Lycan", "Meepo", "Phantom_Lancer", "Queen_of_Pain", "Spectre", "Sand_King", "Warlock"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Faceless_Void", "Huskar", "Invoker", "Lifestealer", "Slark", "Warlock"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Legion_Commander": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Bristleback", "Broodmother", "Chen", "Clinkz", "Drow_Ranger", "Huskar", "Nyx_Assassin", "Sniper", "Terrorblade", "Viper", "Weaver"
+                ],
+                "works_well_with": [
+                   "Ancient_Apparition", "Disruptor", "Invoker", "Lifestealer", "Mirana", "Shadow_Fiend", "Silencer", "Skywrath_Mage", "Ursa", "Witch_Doctor", "Zeus"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Leshrac": {
+            "counters": {
+                "good_against": [
+                    "Meepo", "Visage", "Chen", "Broodmother", "Io", "Shadow_Demon", "Phantom_Lancer"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Enigma", "Io", "Magnus", "Oracle"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lich": {
+            "counters": {
+                "good_against": [
+                    "Meepo", "Chaos_Knight", "Lone_Druid", "Arc_Warden"
+                ],
+                "works_well_with": [
+                    "Magnus", "Warlock", "Treant_Protector", "Witch_Doctor", "Faceless_Void", "Enigma", "Axe", "Grimstroke"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 100,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lifestealer": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Dark_Willow", "Invoker", "Techies", "Tinker", "Ogre_Magi", "Silencer"
+                ],
+                "works_well_with": [
+                    "Clockwerk", "Queen_of_Pain", "Riki", "Slardar", "Spirit_Breaker", "Storm_Spirit", "Sand_King"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lina": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Clinkz", "Crystal_Maiden", "Dazzle", "Enchantress", "Meepo", "Mirana", "Morphling", "Necrophos", "Pudge", "Treant_Protector", "Venomancer"
+                ],
+                "works_well_with": [
+                    "Shadow_Demon", "Sven", "Pugna", "Bane", "Grimstroke"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 100,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lion": {
+            "counters": {
+                "good_against": [
+                    "Drow_Ranger", "Ember Spirit", "Enchantress", "Medusa", "Phantom_Assassin", "Weaver", "Wraith_King", "Void_Spirit", "Naga_Siren"
+                ],
+                "works_well_with": [
+                    "Pugna", "Anti_Mage", "Centaur_Warrunner", "Leshrac", "Tinker", "Ursa"
+                ]
+            },
+            "control": 100,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 20,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lone_Druid": {
+            "counters": {
+                "good_against": [
+                    "Juggernaut", "Dawnbreaker", "Arc_Warden", "Nature's_Prophet", "Silencer"
+                ],
+                "works_well_with": [
+                    "Beastmaster", "Lycan", "Ogre_Magi", "Omniknight"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Luna": {
+            "counters": {
+                "good_against": [
+                    "Arc_Warden", "Bane", "Bounty_Hunter", "Centaur_Warrunner", "Chen", "Enchantress", "Legion_Commander", "Lifestealer", "Magnus", "Necrophos", "Pugna", "Riki", "Terrorblade", "Tidehunter", "Underlord", "Undying", "Winter_Wyvern", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Dawnbreaker", "Dazzle", "Keeper_of_the_Light", "Lina", "Naga_Siren", "Night Stalker", "Vengeful_Spirit", "Shadow_Demon"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Lycan": {
+            "counters": {
+                "good_against": [
+                    "Lich", "Techies", "Arc_Warden", "Drow_Ranger", "Ursa"
+                ],
+                "works_well_with": [
+                    "Beastmaster", "Chen", "Nature's_Prophet"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Magnus": {
+            "counters": {
+                "good_against": [
+                    "Chaos_Knight", "Meepo", "Lifestealer", "Phantom_Lancer"
+                ],
+                "works_well_with": [
+                    "Snapfire", "Anti_Mage", "Enigma", "Invoker", "Phantom_Assassin", "Sven", "Troll_Warlord", "Phoenix", "Kunkka", "Tiny"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 100,
+            "laning": 60,
+            "earlygame": 20,
+            "midgame": 100,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Marci": {
+            "counters": {
+                "good_against": [
+                    "Enchantress", "Mars", "Nature's_Prophet", "Phoenix", "Zeus"
+                ],
+                "works_well_with": [
+                    "Grimstroke", "Lifestealer", "Lycan", "Razor", "Snapfire", "Troll_Warlord", "Ursa", "Venomancer"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Mars": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Juggernaut", "Legion_Commander", "Phantom_Assassin", "Slark", "Spectre", "Terrorblade", "Weaver"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Huskar", "Crystal_Maiden", "Disruptor", "Keeper_of_the_Light", "Kunkka", "Lich", "Monkey_King", "Phoenix", "Riki", "Sven"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 66,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Medusa": {
+            "counters": {
+                "good_against": [
+                    "Enchantress", "Lifestealer", "Necrophos", "Sven", "Undying", "Lycan", "Enigma", "Meepo", "Axe", "Visage"
+                ],
+                "works_well_with": [
+                    "Axe", "Earthshaker", "Keeper_of_the_Light", "Lich", "Phoenix", "Shadow_Demon"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 60,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Meepo": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Legion_Commander", "Phantom_Lancer", "Phoenix", "Queen_of_Pain", "Shadow_Demon", "Storm_Spirit"
+                ],
+                "works_well_with": [
+                    "Disruptor", "Kunkka", "Silencer", "Sven", "Dazzle"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 20,
+            "earlygame": 60,
+            "midgame": 40,
+            "lategame": 80,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Mirana": {
+            "counters": {
+                "good_against": [
+                    "Crystal_Maiden", "Drow_Ranger", "Techies", "Witch_Doctor"
+                ],
+                "works_well_with": [
+                    "Axe", "Bane", "Batrider", "Clockwerk", "Shadow_Demon", "Sven", "Underlord"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Monkey_King": {
+            "counters": {
+                "good_against": [
+                    "Alchemist", "Drow_Ranger", "Faceless_Void", "Omniknight", "Meepo", "Nature's_Prophet", "Pudge", "Shadow_Fiend", "Spectre", "Silencer", "Underlord", "Skywrath_Mage", "Witch_Doctor"
+                ],
+                "works_well_with": [
+                    "Beastmaster", "Crystal_Maiden", "Dark_Seer", "Elder Titan", "Magnus", "Mars", "Nature's_Prophet", "Oracle", "Puck", "Treant_Protector"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 60,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Morphling": {
+            "counters": {
+                "good_against": [
+                    "Lifestealer", "Bloodseeker", "Clockwerk", "Drow_Ranger", "Lone_Druid", "Phantom_Assassin", "Razor", "Sniper"
+                ],
+                "works_well_with": [
+                    "Drow_Ranger", "Earthshaker", "Tiny", "Pugna", "Keeper_of_the_Light", "Crystal_Maiden", "Dazzle"
+                ]
+            },
+            "control": 33,
+            "escape": 100,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Muerta": {
+            "counters": {
+                "good_against": [
+                 
+                ],
+                "works_well_with": [
+                   
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 0,
+            "earlygame": 0,
+            "midgame": 0,
+            "lategame": 0,
+            "meta": 0,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Naga_Siren": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Omniknight", "Nature's_Prophet", "Legion_Commander", "Templar_Assassin", "Crystal_Maiden", "Chen", "Bounty_Hunter", "Viper", "Lycan", "Night Stalker", "Arc_Warden", "Sniper", "Rubick", "Lone_Druid"
+                ],
+                "works_well_with": [
+                    "Dazzle", "Disruptor", "Kunkka", "Razor", "Tidehunter"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 40,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Nature's_Prophet": {
+            "counters": {
+                "good_against": [
+                    "Lich", "Monkey_King", "Treant_Protector", "Venomancer", "Weaver"
+                ],
+                "works_well_with": [
+                    "Tiny", "Skywrath_Mage", "Bloodseeker", "Invoker", "Windranger", "Timbersaw", "Riki", "Mars", "Zeus"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 40,
+            "midgame": 40,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Necrophos": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Bristleback", "Huskar", "Phoenix", "Pudge", "Sven", "Tidehunter"
+                ],
+                "works_well_with": [
+                    "Abaddon", "Axe", "Earthshaker", "Legion_Commander", "Oracle", "Pugna"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Night_Stalker": {
+            "counters": {
+                "good_against": [
+                    "Storm_Spirit", "Puck", "Clinkz", "Earthshaker", "Keeper_of_the_Light", "Tinker", "Riki", "Slark"
+                ],
+                "works_well_with": [
+                    "Oracle", "Luna", "Magnus"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 20,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0         
+        },
+        "Nyx_Assassin": {
+            "counters": {
+                "good_against": [
+                    "Crystal_Maiden", "Enchantress", "Enigma", "Ember Spirit", "Medusa", "Outworld Destroyer", "Phoenix", "Puck", "Pugna", "Sniper", "Storm_Spirit", "Tinker"
+                ],
+                "works_well_with": [
+                    "Invoker", "Legion_Commander", "Lifestealer", "Bloodseeker"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 40,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Ogre_Magi": {
+            "counters": {
+                "good_against": [
+                    "Earthshaker", "Io", "Nature's_Prophet", "Templar_Assassin", "Weaver", "Sven"
+                ],
+                "works_well_with": [
+                    "Grimstroke", "Juggernaut", "Sniper", "Sven", "Wraith_King"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 33,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Omniknight": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Chaos_Knight", "Death Prophet", "Faceless_Void", "Juggernaut", "Legion_Commander", "Phantom_Assassin", "Winter_Wyvern"
+                ],
+                "works_well_with": [
+                    "Clockwerk", "Crystal_Maiden", "Keeper_of_the_Light", "Pudge", "Storm_Spirit"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Oracle": {
+            "counters": {
+                "good_against": [
+                    "Ember Spirit", "Legion_Commander", "Dark_Willow", "Omniknight", "Rubick", "Ancient_Apparition", "Silencer", "Phoenix", "Necrophos", "Dark_Seer", "Techies", "Skywrath_Mage"
+                ],
+                "works_well_with": [
+                    "Alchemist", "Ancient_Apparition", "Death Prophet", "Huskar", "Io", "Legion_Commander", "Monkey_King", "Shadow_Demon", "Timbersaw", "Ursa", "Leshrac", "Troll_Warlord", "Necrophos"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Outworld_Destroyer": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Axe", "Huskar", "Legion_Commander", "Winter_Wyvern", "Morphling", "Slark", "Timbersaw", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Ogre_Magi", "Silencer", "Shadow_Shaman", "Bane", "Lion", "Disruptor", "Faceless_Void"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Outworld_Devourer": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Axe", "Huskar", "Legion_Commander", "Winter_Wyvern", "Morphling", "Slark", "Timbersaw", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Ogre_Magi", "Silencer", "Shadow_Shaman", "Bane", "Lion", "Disruptor", "Faceless_Void"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Pangolier": {
+            "counters": {
+                "good_against": [
+                    "Arc_Warden", "Broodmother", "Legion_Commander", "Marci", "Meepo", "Phantom_Lancer", "Templar_Assassin", "Visage"
+                ],
+                "works_well_with": [
+                    "Abaddon", "Batrider", "Clockwerk", "Dark_Seer", "Earth Spirit", "Jakiro", "Keeper_of_the_Light", "Undying"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 33,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 100,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Phantom_Assassin": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Crystal_Maiden", "Dazzle", "Nature's_Prophet", "Riki", "Sniper"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Beastmaster", "Magnus", "Omniknight", "Slardar", "Vengeful_Spirit", "Pudge", "Pugna"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Phantom_Lancer": {
+            "counters": {
+                "good_against": [
+                    "Arc_Warden", "Batrider", "Bounty_Hunter", "Chaos_Knight", "Clockwerk", "Disruptor", "Lifestealer", "Lone_Druid", "Outworld Destroyer", "Pugna", "Slark", "Templar_Assassin", "Undying", "Viper", "Visage", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Bane", "Crystal_Maiden", "Dazzle", "Jakiro", "Keeper_of_the_Light", "Oracle", "Shadow_Shaman", "Slardar", "Spirit_Breaker", "Undying", "Venomancer"
+                ]
+            },
+            "control": 0,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Phoenix": {
+            "counters": {
+                "good_against": [
+                    "Templar_Assassin", "Phantom_Assassin", "Legion_Commander", "Monkey_King", "Chen", "Earthshaker", "Ancient_Apparition", "Shadow_Demon"
+                ],
+                "works_well_with": [
+                    "Enigma", "Faceless_Void", "Invoker", "Keeper_of_the_Light", "Lifestealer", "Magnus", "Pugna", "Sven", "Tinker", "Treant_Protector", "Warlock"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Primal_Beast": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Juggernaut", "Razor", "Morphling", "Magnus", "Phantom_Assassin", "Pugna"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Disruptor", "Enigma", "Mars"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 100,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Puck": {
+            "counters": {
+                "good_against": [
+                    "Void_Spirit", "Pangolier", "Crystal_Maiden", "Mirana", "Phoenix", "Sniper", "Terrorblade"
+                ],
+                "works_well_with": [
+                    "Dark_Willow", "Magnus", "Enigma", "Invoker", "Kunkka", "Phoenix", "Witch_Doctor"
+                ]
+            },
+            "control": 100,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 100,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Pudge": {
+            "counters": {
+                "good_against": [
+                    "Crystal_Maiden", "Drow_Ranger", "Phantom_Assassin", "Sniper", "Spectre", "Tinker", "Zeus"
+                ],
+                "works_well_with": [
+                    "Oracle", "Techies", "Pugna", "Outworld Destroyer", "Lifestealer", "Tiny", "Crystal_Maiden", "Bloodseeker", "Omniknight"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Pugna": {
+            "counters": {
+                "good_against": [
+                    "Enchantress", "Juggernaut", "Timbersaw", "Leshrac", "Legion_Commander", "Shadow_Fiend", "Faceless_Void", "Invoker", "Skywrath_Mage", "Troll_Warlord"
+                ],
+                "works_well_with": [
+                    "Grimstroke", "Io", "Legion_Commander", "Necrophos", "Medusa", "Phoenix", "Skywrath_Mage", "Shadow_Shaman"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Queen_of_Pain": {
+            "counters": {
+                "good_against": [
+                    "Drow_Ranger", "Enchantress", "Huskar", "Slark"
+                ],
+                "works_well_with": [
+                    "Axe", "Dark_Seer", "Enigma", "Faceless_Void", "Lifestealer", "Magnus", "Omniknight"
+                ]
+            },
+            "control": 0,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Razor": {
+            "counters": {
+                "good_against": [
+                    "Bristleback", "Earthshaker", "Lifestealer", "Monkey_King", "Phantom_Assassin", "Phantom_Lancer", "Spirit_Breaker", "Troll_Warlord", "Ursa", "Windranger"
+                ],
+                "works_well_with": [
+                    "Death Prophet", "Shadow_Demon", "Outworld Destroyer", "Bane", "Naga_Siren", "Winter_Wyvern"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Riki": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Chen", "Clinkz", "Crystal_Maiden", "Drow_Ranger", "Lifestealer", "Mars", "Queen_of_Pain", "Storm_Spirit", "Skywrath_Mage", "Sniper", "Ursa", "Weaver"
+                ],
+                "works_well_with": [
+                    "Faceless_Void", "Lifestealer", "Meepo", "Dark_Seer", "Magnus", "Enigma", "Axe"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Rubick": {
+            "counters": {
+                "good_against": [
+                    "Shadow_Shaman", "Puck", "Lina", "Grimstroke", "Crystal_Maiden", "Venomancer", "Sniper", "Juggernaut", "Underlord", "Lion", "Vengeful_Spirit", "Pangolier", "Jakiro", "Wraith_King", "Enigma", "Phoenix", "Witch_Doctor", "Shadow_Fiend", "Undying", "Magnus", "Kunkka", "Luna", "Morphling"
+                ],
+                "works_well_with": [
+                    "Alchemist", "Crystal_Maiden", "Morphling"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Sand_King": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Meepo", "Nature's_Prophet", "Phantom_Assassin", "Slark", "Templar_Assassin"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Keeper_of_the_Light", "Tidehunter", "Tiny", "Monkey_King", "Warlock", "Earthshaker"
+                ]
+            },
+            "control": 66,
+            "escape": 66,
+            "durability": 0,
+            "initiation": 100,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Shadow_Demon": {
+            "counters": {
+                "good_against": [
+                    "Alchemist", "Venomancer", "Anti_Mage", "Dark_Seer", "Legion_Commander", "Omniknight", "Spectre", "Juggernaut", "Luna", "Techies", "Windranger"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Dazzle", "Terrorblade", "Razor", "Luna"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Shadow_Fiend": {
+            "counters": {
+                "good_against": [
+                    "Clockwerk", "Meepo", "Nature's_Prophet", "Silencer", "Slark"
+                ],
+                "works_well_with": [
+                    "Bane", "Clockwerk", "Enigma", "Legion_Commander", "Magnus", "Slardar", "Tidehunter", "Vengeful_Spirit"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Shadow_Shaman": {
+            "counters": {
+                "good_against": [
+                    "Huskar", "Marci", "Nature's_Prophet", "Spirit_Breaker", "Templar_Assassin", "Terrorblade", "Weaver"
+                ],
+                "works_well_with": [
+                    "Juggernaut", "Ursa", "Troll_Warlord", "Pugna", "Legion Commander ", "Monkey_King"
+                ]
+            },
+            "control": 100,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Silencer": {
+            "counters": {
+                "good_against": [
+                    "Bristleback", "Crystal_Maiden", "Enigma", "Medusa", "Oracle", "Outworld Destroyer", "Pugna", "Shadow_Demon", "Terrorblade", "Timbersaw", "Tinker", "Windranger", "Zeus"
+                ],
+                "works_well_with": [
+                    "Slardar", "Crystal_Maiden", "Anti_Mage", "Pudge", "Outworld Destroyer"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Skywrath_Mage": {
+            "counters": {
+                "good_against": [
+                    "Timbersaw", "Storm_Spirit", "Enchantress", "Alchemist", "Vengeful_Spirit", "Winter_Wyvern"
+                ],
+                "works_well_with": [
+                    "Faceless_Void", "Undying", "Centaur_Warrunner", "Pugna", "Silencer", "Legion_Commander"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Slardar": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Bounty_Hunter", "Clinkz", "Legion_Commander", "Ursa", "Pudge", "Riki", "Shadow_Fiend", "Weaver"
+                ],
+                "works_well_with": [
+                    "Bounty_Hunter", "Vengeful_Spirit", "Shadow_Fiend", "Alchemist", "Lifestealer", "Phantom_Assassin", "Templar_Assassin"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Slark": {
+            "counters": {
+                "good_against": [
+                    "Arc_Warden", "Batrider", "Drow_Ranger", "Juggernaut", "Luna", "Medusa", "Phantom_Assassin", "Sniper", "Spectre", "Storm_Spirit", "Templar_Assassin", "Warlock"
+                ],
+                "works_well_with": [
+                    "Bane", "Earthshaker", "Keeper_of_the_Light", "Luna", "Magnus", "Kunkka", "Omniknight", "Pugna", "Skywrath_Mage", "Underlord", "Witch_Doctor", "Zeus"
+                ]
+            },
+            "control": 33,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 100,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Snapfire": {
+            "counters": {
+                "good_against": [
+                    "Chen", "Clockwerk", "Phantom_Lancer", "Phoenix", "Omniknight", "Faceless_Void"
+                ],
+                "works_well_with": [
+                    "Clockwerk", "Faceless_Void", "Oracle", "Warlock", "Mars"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Sniper": {
+            "counters": {
+                "good_against": [
+                    "Drow_Ranger", "Earthshaker", "Enigma", "Medusa", "Silencer", "Shadow_Fiend", "Shadow_Shaman", "Venomancer", "Undying"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Clockwerk", "Lich", "Night Stalker", "Ogre_Magi", "Venomancer", "Drow_Ranger"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 20,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Spectre": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Clinkz", "Crystal_Maiden", "Drow_Ranger", "Earthshaker", "Lina", "Magnus", "Nature's_Prophet", "Oracle", "Phantom_Assassin", "Rubick", "Sniper", "Tinker", "Windranger", "Zeus"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Bounty_Hunter", "Chen", "Clockwerk", "Earthshaker", "Enigma", "Leshrac", "Magnus", "Outworld Destroyer", "Treant_Protector", "Warlock", "Pudge"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 40,
+            "earlygame": 20,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Spirit_Breaker": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Clinkz", "Nature's_Prophet", "Tinker"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Bounty_Hunter", "Io", "Lifestealer", "Dark_Seer", "Snapfire"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 40,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Storm_Spirit": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Arc_Warden", "Bloodseeker", "Mars", "Monkey_King", "Phantom_Lancer", "Razor", "Sniper", "Spectre", "Terrorblade", "Tinker", "Vengeful_Spirit", "Viper", "Weaver"
+                ],
+                "works_well_with": [
+                    "Keeper_of_the_Light", "Omniknight", "Lifestealer"
+                ]
+            },
+            "control": 33,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0            
+        },
+        "Sven": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Broodmother", "Chaos_Knight", "Chen", "Death Prophet", "Doom", "Juggernaut", "Meepo", "Pangolier", "Phantom_Lancer", "Sniper", "Tiny", "Warlock"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Dark_Seer", "Enigma", "Io", "Lion", "Magnus", "Oracle", "Shadow_Shaman"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0           
+        },
+        "Techies": {
+            "counters": {
+                "good_against": [
+                    "Monkey_King", "Enchantress", "Chaos_Knight", "Morphling"
+                ],
+                "works_well_with": [
+                    "Batrider", "Crystal_Maiden", "Magnus", "Pugna", "Tusk", "Undying"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Templar_Assassin": {
+            "counters": {
+                "good_against": [
+                    "Shadow_Fiend", "Zeus", "Puck"
+                ],
+                "works_well_with": [
+                    "Slardar", "Elder Titan", "Vengeful_Spirit"
+                ]
+            },
+            "control": 0,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Terrorblade": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Bane", "Viper", "Shadow_Fiend", "Pudge", "Anti_Mage", "Sniper", "Spectre", "Lifestealer", "Witch_Doctor", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Dazzle", "Oracle", "Shadow_Demon", "Necrophos"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 20,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Tidehunter": {
+            "counters": {
+                "good_against": [
+                    "Bane", "Batrider", "Shadow_Fiend", "Phantom_Lancer", "Windranger"
+                ],
+                "works_well_with": [
+                    "Underlord", "Earthshaker", "Elder Titan", "Invoker", "Shadow_Fiend"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 100,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Timbersaw": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Axe", "Chaos_Knight", "Meepo", "Monkey_King", "Nature's_Prophet", "Phantom_Assassin", "Phantom_Lancer", "Razor", "Slark", "Terrorblade", "Treant_Protector"
+                ],
+                "works_well_with": [
+                    "Bounty_Hunter", "Crystal_Maiden", "Enigma", "Magnus", "Faceless_Void"
+                ]
+            },
+            "control": 0,
+            "escape": 66,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 60,
+            "lategame": 80,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Tinker": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Chaos_Knight", "Faceless_Void", "Shadow_Fiend", "Terrorblade", "Timbersaw"
+                ],
+                "works_well_with": [
+                    "Faceless_Void", "Kunkka", "Nature's_Prophet", "Spirit_Breaker", "Bloodseeker", "Keeper_of_the_Light", "Bounty_Hunter", "Slardar"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 60,
+            "earlygame": 20,
+            "midgame": 80,
+            "lategame": 100,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Tiny": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Meepo", "Naga_Siren"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Earthshaker", "Io", "Magnus", "Enigma", "Slardar", "Tidehunter", "Pudge"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Treant_Protector": {
+            "counters": {
+                "good_against": [
+                    "Spirit_Breaker", "Anti_Mage", "Lycan", "Storm_Spirit", "Drow_Ranger", "Phantom_Assassin"
+                ],
+                "works_well_with": [
+                    "Keeper_of_the_Light", "Crystal_Maiden", "Mirana", "Nature's_Prophet", "Pudge", "Sven", "Warlock"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 33,
+            "initiation": 66,
+            "laning": 40,
+            "earlygame": 40,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Troll_Warlord": {
+            "counters": {
+                "good_against": [
+                    "Anti_Mage", "Enchantress", "Huskar", "Juggernaut", "Lifestealer", "Phantom_Assassin", "Phoenix", "Sven", "Terrorblade", "Undying"
+                ],
+                "works_well_with": [
+                    "Ogre_Magi", "Slardar", "Vengeful_Spirit"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Tusk": {
+            "counters": {
+                "good_against": [
+                    "Bane", "Bloodseeker", "Crystal_Maiden", "Legion_Commander", "Pugna", "Shadow_Fiend", "Sniper", "Venomancer", "Viper", "Pudge", "Monkey_King"
+                ],
+                "works_well_with": [
+                    "Omniknight", "Axe", "Juggernaut", "Legion_Commander", "Lifestealer", "Tidehunter", "Tiny", "Meepo"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 100,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Underlord": {
+            "counters": {
+                "good_against": [
+                    "Drow_Ranger", "Legion_Commander", "Phantom_Lancer", "Phantom_Assassin", "Terrorblade", "Templar_Assassin"
+                ],
+                "works_well_with": [
+                    "Disruptor", "Dragon_Knight", "Elder Titan", "Leshrac", "Mirana", "Riki", "Rubick", "Timbersaw", "Vengeful_Spirit"
+                ]
+            },
+            "control": 33,
+            "escape": 66,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Undying": {
+            "counters": {
+                "good_against": [
+                    "Nature's_Prophet", "Spectre", "Ogre_Magi", "Centaur_Warrunner", "Winter_Wyvern", "Sven", "Bristleback"
+                ],
+                "works_well_with": [
+                    "Broodmother", "Crystal_Maiden", "Morphling", "Naga_Siren", "Pugna", "Warlock", "Winter_Wyvern", "Lich", "Witch_Doctor"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Ursa": {
+            "counters": {
+                "good_against": [
+                    "Lifestealer", "Lina", "Timbersaw", "Huskar", "Medusa", "Pudge"
+                ],
+                "works_well_with": [
+                    "Io", "Disruptor", "Shadow_Shaman", "Lion", "Bane"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 80,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Vengeful_Spirit": {
+            "counters": {
+                "good_against": [
+                    "Batrider", "Clockwerk", "Faceless_Void", "Huskar", "Meepo", "Monkey_King"
+                ],
+                "works_well_with": [
+                    "Techies", "Shadow_Fiend", "Slardar", "Drow_Ranger", "Mirana", "Bloodseeker", "Crystal_Maiden", "Weaver", "Sniper"
+                ]
+            },
+            "control": 66,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 80,
+            "earlygame": 40,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Venomancer": {
+            "counters": {
+                "good_against": [
+                    "Axe", "Earthshaker", "Magnus", "Mars", "Monkey_King", "Spectre", "Templar_Assassin", "Techies", "Windranger"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Undying", "Viper"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 80,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Viper": {
+            "counters": {
+                "good_against": [
+                    "Abaddon", "Axe", "Bristleback", "Dragon_Knight", "Earthshaker", "Huskar", "Magnus", "Mars", "Monkey_King", "Necrophos", "Nyx_Assassin", "Razor", "Slark", "Spectre", "Templar_Assassin", "Tidehunter", "Vengeful_Spirit", "Venomancer", "Visage", "Zeus"
+                ],
+                "works_well_with": [
+                    "Abaddon", "Beastmaster", "Clockwerk", "Crystal_Maiden", "Dark_Seer", "Dazzle", "Drow_Ranger", "Earth Spirit", "Faceless_Void", "Lich", "Luna", "Necrophos", "Ogre_Magi", "Slardar", "Treant_Protector"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 66,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 100,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Visage": {
+            "counters": {
+                "good_against": [
+                    "Clockwerk", "Nature's_Prophet", "Puck", "Pudge", "Shadow_Shaman", "Spectre", "Techies"
+                ],
+                "works_well_with": [
+                    "Slardar", "Lifestealer", "Beastmaster", "Elder Titan", "Marci"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 33,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 60,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Void_Spirit": {
+            "counters": {
+                "good_against": [
+                    "Broodmother", "Terrorblade", "Gyrocopter", "Morphling", "Monkey_King", "Windranger"
+                ],
+                "works_well_with": [
+                    "Keeper_of_the_Light", "Pudge", "Pugna", "Bane", "Bloodseeker"
+                ]
+            },
+            "control": 33,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 20,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Warlock": {
+            "counters": {
+                "good_against": [
+                    "Huskar", "Meepo", "Templar_Assassin", "Shadow_Fiend", "Enigma"
+                ],
+                "works_well_with": [
+                    "Sven", "Bloodseeker", "Axe", "Dark_Seer", "Kunkka", "Magnus", "Enigma", "Silencer", "Spectre"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 66,
+            "laning": 60,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Weaver": {
+            "counters": {
+                "good_against": [
+                    "Ancient_Apparition", "Brewmaster", "Lifestealer", "Undying", "Pudge", "Sven", "Ursa", "Wraith_King"
+                ],
+                "works_well_with": [
+                    "Crystal_Maiden", "Alchemist", "Vengeful_Spirit"
+                ]
+            },
+            "control": 0,
+            "escape": 100,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Windranger": {
+            "counters": {
+                "good_against": [
+                    "Earthshaker", "Huskar", "Hoodwink", "Phantom_Assassin", "Pudge", "Ursa"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Nature's_Prophet", "Hoodwink"
+                ]
+            },
+            "control": 33,
+            "escape": 33,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 60,
+            "lategame": 60,
+            "meta": 40,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Winter_Wyvern": {
+            "counters": {
+                "good_against": [
+                    "Beastmaster", "Chaos_Knight", "Lycan", "Legion_Commander", "Meepo", "Troll_Warlord"
+                ],
+                "works_well_with": [
+                    "Dark_Seer", "Enigma", "Magnus", "Venomancer", "Invoker"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Witch_Doctor": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Lone_Druid", "Lycan", "Monkey_King", "Venomancer", "Viper"
+                ],
+                "works_well_with": [
+                    "Enigma", "Faceless_Void", "Lich", "Magnus", "Underlord", "Undying"
+                ]
+            },
+            "control": 33,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 80,
+            "midgame": 40,
+            "lategame": 40,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Wraith_King": {
+            "counters": {
+                "good_against": [
+                    "Bloodseeker", "Doom", "Legion_Commander", "Necrophos", "Rubick", "Techies", "Witch_Doctor"
+                ],
+                "works_well_with": [
+                    "Bloodseeker", "Ogre_Magi"
+                ]
+            },
+            "control": 66,
+            "escape": 0,
+            "durability": 100,
+            "initiation": 33,
+            "laning": 100,
+            "earlygame": 60,
+            "midgame": 60,
+            "lategame": 80,
+            "meta": 20,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        },
+        "Zeus": {
+            "counters": {
+                "good_against": [
+                    "Slardar", "Enchantress", "Timbersaw", "Bounty_Hunter", "Winter_Wyvern", "Lich", "Necrophos", "Tinker"
+                ],
+                "works_well_with": [
+                    "Ancient_Apparition", "Bloodseeker", "Dazzle", "Tidehunter"
+                ]
+            },
+            "control": 0,
+            "escape": 0,
+            "durability": 0,
+            "initiation": 0,
+            "laning": 80,
+            "earlygame": 100,
+            "midgame": 80,
+            "lategame": 60,
+            "meta": 80,
+            "dmgtype": 0,
+            "dmgburst": 0,
+            "farmability": 0,
+            "greed": 0
+        }
+    }
+}
+
